@@ -51,7 +51,7 @@
     
     * De-compression
 
-    <a href="#"> ![decompression](images/readme-images/decompression.png) </a>
+    <a href="#"> ![decompression](images/readme-images/decompression12.png) </a>
 
 * Additional Instructions and Warnings are provided if the above steps are not followed correctly
 
