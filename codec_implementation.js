@@ -1,6 +1,4 @@
-/* 
-	Author : Samir Paul
-*/
+
 class Codec { 
 
     /// dfs
