@@ -1,4 +1,4 @@
-<!-- Author : Samir Paul -->
+
 <div align="center">
 <h1> Text File Compressor De-compressor Web App</h1>
 </div>
